@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.env.*
+data/
+models/
+artifacts/
+reports/
+*.db
+*.sqlite*
+*.parquet
+*.pkl
+*.joblib
+*.log
+*.zip
